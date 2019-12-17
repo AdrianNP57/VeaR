@@ -7,3 +7,7 @@ Hush Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribu
 
 Font: 
 Gordita Font Family by Thomas Gillett: https://www.cufonfonts.com/font/gordita
+
+Sound effects:
+https://www.youtube.com/watch?v=bGVZTPHS1_k by Audio Effects
+https://www.youtube.com/watch?v=dJqmVtAW4Po by Stingray Productions
